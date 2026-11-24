@@ -1,3 +1,2 @@
-# agentic-ai-journey
-SCADA/BMS engineer learning agentic AI, 2026–27 roadmap
-
+﻿# Agentic AI Journey
+SCADA/BMS project manager learning Agentic AI, one week at a time.
